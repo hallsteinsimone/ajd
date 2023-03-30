@@ -1,0 +1,73 @@
+LAND,LANDgnd,LANDwiki,REGION,ORT,ORTgnd,ORTwiki
+(1) Niederlande. (2) Belgien,(1) XA-NL. (2) XA-BE,(1) Q55. (2) Q31,N/A,südliche Niederlande,4291570-3,Q6581823
+Belgien,XA-BE,Q31,N/A,Brüssel,4008460-7,Q239
+Belgien,XA-BE,Q31,N/A,Antwerpen,4002364-3,Q31467408
+Deutschland,XA-DE-MV,Q183,Mecklenburg-Vorpommern,Rostock,4050610-1,N/A
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Tübingen,4061147-4,N/A
+Deutschland,XA-DE-NW,Q183,Nordrhein-Westfalen,Köln,4031483-2,Q365
+Deutschland,XA-DE-BY,Q183,Bayern,Augsburg,4003614-5,Q2749
+Deutschland,XA-DE-BY,Q183,Bayern,Nürnberg,4042742-0,Q2090
+Deutschland,XA-DE-SN,Q183,Sachsen,Zwickau,4068262-6,N/A
+Deutschland,XA-DE-HE,Q183,Hessen,Frankfurt (Main),4018118-2,Q1794
+Deutschland,XA-DE-NI,Q183,Niedersachsen,Braunschweig,4008065-1,Q2773
+Deutschland,XA-DE-BB,Q183,Brandenburg,Frankfurt (Oder),4018122-4,Q71
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Pforzheim,4045637-7,Q3046
+Deutschland,XA-DE-TH,Q183,Thüringen,Erfurt,4015240-6,N/A
+Deutschland,XA-DE-BY,Q183,Bayern,München,4127793-4,Q1726
+Deutschland,XA-DE-RP,Q183,Rheinland-Pfalz,Mainz,4037124-4,Q1720
+Deutschland,XA-DE-SN,Q183,Sachsen-Anhalt,Leipzig,4035206-7,Q2079
+Deutschland,XA-DE-BY,Q183,Bayern,Landshut,4034367-4,Q3974
+Deutschland,XA-DE-RP,Q183,Rheinland-Pfalz,Speyer,4056179-3,Q6829
+Deutschland,XA-DE-SH,Q183,Schleswig-Holstein,Lübeck,4036483-5,Q2843
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Ulm,4061529-7,N/A
+Deutschland,XA-DE-BY,Q183,Bayern,Bamberg,4004391-5,Q3936
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Reutlingen,4049657-0,Q3085
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Esslingen,4015575-4,Q3786
+Deutschland,XA-DE-ST,Q183,Sachsen-Anhalt,Magdeburg,4036934-1,Q1733
+Deutschland,XA-DE,Q183,N/A,Oberdeutschland,4295365-0,N/A
+Deutschland,XA-DE-BY,Q183,Bayern,Memmingen,4038586-3,N/A
+Deutschland,XA-DE-TH,Q183,Thüringen,Weimar,4065105-8,Q3955
+Deutschland,XA-DE-BW,Q183,Baden-Württemberg,Stuttgart,4058282-6,Q1022
+Frankreich,XA-FR,Q142,N/A,Paris,4044660-8,Q90
+Frankreich,XA-FR,Q142,N/A,Lyon,4036770-8,Q456
+Frankreich,XA-FR,Q142,N/A,Strassburg,4057878-1,Q6602
+Frankreich,XA-FR,Q142,Unterelsass,Hagenau,4094465-7,Q22730
+Frankreich,XA-FR,Q142,Oberelsass,Colmar,4010401-1,N/A
+Großbritannien,XA-GB,N/A,N/A,London,4074335-4,N/A
+Italien,XA-IT,Q38,N/A,Venedig,4062501-1,N/A
+Italien,XA-IT,Q38,N/A,Pavia,4044970-1,Q6259
+Italien,XA-IT,Q38,N/A,Rom,4050471-2,Q220
+Italien,XA-IT,Q38,N/A,Ortona,4461346-5,Q51256
+Italien,XA-IT,Q38,N/A,Florenz,4017581-9,Q2044
+Italien,XA-IT,Q38,N/A,Ancona,4395123-5,Q3415
+Italien,XA-IT,Q38,N/A,Neapel,4041476-0,Q2634
+Italien,XA-IT,Q38,N/A,Treviso,4119702-1,Q5475
+Italien,XA-IT,Q38,N/A,Santorso,4219914-1,Q46912
+Italien,XA-IT,Q38,N/A,Mantua,4114978-6,Q6247
+Italien,XA-IT-32,Q38,Trentino-Südtirol,Trient,4078405-8,Q3376
+Italien,XA-IT,Q38,N/A,Verona,4063110-2,Q2028
+Italien,XA-IT,Q38,N/A,Bologna,4007616-7,N/A
+Italien,XA-IT,Q38,N/A,Mailand,4037100-1,Q490
+Italien,XA-IT,Q38,N/A,Vercelli,4119399-4,Q5990
+Italien,XA-IT,Q38,N/A,Padua,4044295-0,Q617
+Italien,XA-IT,Q38,N/A,Vicenza,4063445-0,Q6537
+Italien,XA-IT,Q38,N/A,Siena,4054903-3,Q2751
+Italien,XA-IT,Q38,N/A,Pescia,4304125-5,Q102661
+Italien,XA-IT,Q38,N/A,Messina,4038833-5,Q13666
+Italien,XA-IT,Q38,N/A,N/A,N/A,N/A
+Italien,XA-IT,Q38,N/A,Brescia,4008213-1,Q6221
+Niederlande,XA-NL,Q55,N/A,N/A,N/A,N/A
+Niederlande,XA-NL,Q55,N/A,Utrecht,4062222-8,Q803
+Niederlande,XA-NL,Q55,N/A,Gouda,4104351-0,Q33439340
+Niederlande,XA-NL,Q55,N/A,Deventer,4090740-5,Q26296883
+Schweiz,XA-CH-BS,Q39,Kanton Basel,Basel,4004617-5,Q78
+Schweiz,XA-CH-ZH,Q39,Kanton Zürich,Zürich,4068038-1,N/A
+Schweiz,XA-CH-GE,Q39,Kanton Genf,Genf,4086693-2,N/A
+Spanien,XA-ES,Q29,N/A,Valladolid,4119355-6,Q8356
+Spanien,XA-ES,Q29,N/A,Zaragoza,4079463-5,Q10305
+Spanien,XA-ES,Q29,N/A,Sevilla,4054671-8,Q8717
+Spanien,XA-ES,Q29,N/A,Burgos,4080584-0,Q9580
+Spanien,XA-ES,Q29,N/A,Valencia,4062284-8,Q8818
+Spanien,XA-ES,Q29,N/A,Barcelona,4004503-1,Q1492
+Tschechischen,XA-CZ,N/A,Westböhmen,Pilsen,4076145-9,N/A
+Tschechischen,XA-BE,N/A,Mähren,Mähren,4074432-2,Q43266
